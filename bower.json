@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rm <biffbangpow767@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

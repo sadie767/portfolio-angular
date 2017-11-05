@@ -1,0 +1,32 @@
+
+.purple {
+  color: purple;
+}
+
+#marginName {
+  margin-left: 80px;
+  margin-top: 120px;
+  margin-bottom: 135px;
+  font-size: 60px;
+  font-family: cursive;
+}
+
+img {
+  height: 300px;
+}
+
+#trim {
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+  /*width:230px;
+  height:250px;
+  overflow:hidden*/
+  border-radius: 30%;
+}
+
+.box {
+  border: 5px solid;
+  margin: 20px;
+  color: purple;
+}
