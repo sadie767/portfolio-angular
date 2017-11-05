@@ -2,3 +2,19 @@
 body {
     background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/J9H9WF0/beautiful-festive-soft-purple-background-with-moving-light-particles-creating-a-bokeh-effect_hs2dldr4e_thumbnail-full01.png");
 }
+
+.purple {
+  color: purple;
+}
+
+.about {
+  color: purple;
+  margin: 20px;
+  font-family: serif;
+  /*outline: 1px solid black;*/
+  text-shadow: 1px 1px black;
+}
+
+.marginTop {
+  margin-top: 100px;
+}

@@ -1,8 +1,4 @@
 
-.purple {
-  color: purple;
-}
-
 #marginName {
   margin-left: 80px;
   margin-top: 120px;
@@ -26,7 +22,11 @@ img {
 }
 
 .box {
-  border: 5px solid;
-  margin: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left:  10px;
+  outline: thick ridge purple;
+  /*border: 5px solid;*/
+  padding: 20px;
   color: purple;
 }
