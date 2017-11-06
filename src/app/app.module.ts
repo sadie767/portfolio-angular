@@ -8,13 +8,15 @@ import { AboutComponent } from './about/about.component';
 import { routing } from './app.routing';
 import { IntroductionComponent } from './introduction/introduction.component';
 import { ProfessionComponent } from './profession/profession.component';
+import { ProjectsComponent } from './projects/projects.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
     IntroductionComponent,
-    ProfessionComponent
+    ProfessionComponent,
+    ProjectsComponent
   ],
   imports: [
     BrowserModule,
