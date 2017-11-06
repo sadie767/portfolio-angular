@@ -4,6 +4,7 @@ import { IntroductionComponent } from './introduction/introduction.component';
 import { AboutComponent }   from './about/about.component';
 import { ProfessionComponent }   from './profession/profession.component';
 import { ProjectsComponent }   from './projects/projects.component';
+import { LinkedComponent }   from './linked/linked.component';
 
 const appRoutes: Routes = [
   {
@@ -21,6 +22,10 @@ const appRoutes: Routes = [
   {
     path: 'projects',
     component: ProjectsComponent
+  },
+  {
+    path: 'linked',
+    component: LinkedComponent
   }
 ];
 

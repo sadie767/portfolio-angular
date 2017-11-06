@@ -36,17 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * _Open the terminal and clone the repository by typing: git clone https://github.com/sadie767/portfolio-angular ._
 * _In the terminal type: cd portfolio-angular, then: bower install , to build project._
-* _To build the database type: npm install angularfire2@4.0.0-rc.0 firebase --save , into the terminal._
-* _Go to https://firebase.google.com/, create an account, retrieve an api key, create a api-keys.ts file under src/app, and enter this information into the file:
- export var masterFirebaseConfig = {
-    apiKey: "xxxx",
-    authDomain: "xxxx.firebaseapp.com",
-    databaseURL: "https://xxxx.firebaseio.com",
-    storageBucket: "xxxx.appspot.com",
-    messagingSenderId: "xxxx"
-  };
-  with your corresponding information_
-  * _Run ng serve in the terminal to use app._
+* _Run ng serve in the terminal to use app._
 
 
 ## Known Bugs
