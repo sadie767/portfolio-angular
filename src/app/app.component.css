@@ -7,11 +7,8 @@
   font-family: cursive;
 }
 
-img {
-  height: 300px;
-}
-
 #trim {
+  height: 300px;
   float: right;
   margin-right: 30px;
   margin-top: 10px;
@@ -29,4 +26,13 @@ img {
   /*border: 5px solid;*/
   padding: 20px;
   color: purple;
+}
+
+.icoSize {
+  height: 25px;
+  margin: 10px;
+}
+
+#panelColor {
+  background-color: #d2d4dc;
 }
